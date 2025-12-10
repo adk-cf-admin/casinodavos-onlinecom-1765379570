@@ -1,0 +1,19 @@
+{
+  "name": "Casino Davos",
+  "short_name": "Casino Davos",
+  "theme_color": "",
+  "background_color": "#030303",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1765367377-cda-logo-circle-1-e1741273812513.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
