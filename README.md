@@ -2,8 +2,7 @@
 
 
 
-Built on: 2025-12-10 15:12:53
+Built on: 2026-01-20 08:19:45
 
 Available languages:
 - de-CH
-- langs
